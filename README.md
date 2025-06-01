@@ -34,6 +34,7 @@ cd component1
 ```bash
 cd component1
 npm install
+npm install react-router-dom
 npm run dev
 ```
 
