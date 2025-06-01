@@ -31,8 +31,9 @@ cd component1
 ## 2. Install Dependencies
 
 ### component1:
-
+```bash
 cd component1
 npm install
 npm run dev
+```
 
