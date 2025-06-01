@@ -24,8 +24,8 @@ README.md
 # Installation
 ## 1. Clone the Repository
 
-git clone https://github.com/your-username/course-app.git
-cd course-app
+git clone https://github.com/Anjukailath-4tafensw/Component1.git
+cd component1
 
 
 ## 2. Install Dependencies
